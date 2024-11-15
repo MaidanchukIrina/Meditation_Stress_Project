@@ -33,7 +33,7 @@ This stage of the project focuses on preparing and analyzing data related to stu
 
 ## Visualizations
 ### Gantt Chart for Study Timelines
-![Gantt Chart](path/to/Gantt_Chart.png)
+![Gantt Chart](Images/Gannt _Study_group_duration.png)
 
 ### Heatmap of Data Completeness
 ![Heatmap](Images/Heatmap_missing_data.png)
