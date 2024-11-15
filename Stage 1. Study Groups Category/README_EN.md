@@ -1,33 +1,64 @@
-Description of the Analysis Stage: Creating a Gantt Chart for Study Duration and Frequency Analysis
-At this stage, a Gantt chart was created to visualize the periods during which studies were conducted, allowing for a clear view of the chronological sequence and duration of each study. The primary goal of this analysis was to obtain a visual representation of the study timelines and identify periods of high research activity.
+# Stage 1: Study Groups Categories Analysis
 
-Key Steps and Functions Used for Visualization:
-Data Preparation:
+## Overview
+This stage of the project focuses on preparing and analyzing data related to study groups and their characteristics. The goal is to clean, standardize, and visualize the data to uncover key insights that form a foundation for deeper analysis in subsequent stages.
 
-The data was loaded, and the columns S-START and S-END were converted to date format, ensuring correct calculations of study duration.
-The duration in days for each study was calculated by subtracting the start date (S-START) from the end date (S-END). This allowed for the creation of the studyDurationDays variable, representing the duration of each study.
-Data Sorting:
+## Key Objectives
+1. **Ensure Data Quality**:
+   - Identify and handle missing or inconsistent values.
+   - Standardize key columns like `s_country` and `diag_category`.
 
-The data was sorted by the start date, providing a logical order of bars in the Gantt chart to illustrate the chronological progression of studies.
-Building the Gantt Chart:
+2. **Visualize Data**:
+   - Generate a Gantt chart to visualize study timelines.
+   - Create a heatmap to assess data completeness.
 
-Using the ax.barh() function from the matplotlib library, horizontal bars were created for each study, where the start of the bar corresponds to the study’s start date, and the length reflects its duration.
-The study_ID was displayed on the Y-axis to identify each study group.
-Counting Studies per Year:
+3. **Extract Insights**:
+   - Identify the largest study group.
+   - Determine the study with the longest duration.
+   - Highlight the most common diagnostic category.
 
-The year was extracted from the start date (S-START) to count the number of studies conducted each year.
-The value_counts() function was used to calculate study frequency by year and identify the years with the highest research activity.
-Information about the years with the most studies was added to the chart legend for quick reference.
-Additional Analytical Calculations:
+## Process
+1. **Data Cleaning and Standardization**:
+   - Removed extra spaces and standardized entries in columns like `s_country` and `diag_category`.
+   - Checked for missing values and addressed data quality issues.
 
-Minimum, maximum, and average study durations were calculated and included in the legend, providing insights into the overall distribution of study durations.
-Key Analytical Findings:
-Temporal Distribution of Studies: The Gantt chart shows how studies are distributed over time, visually highlighting periods with high research activity when multiple studies were conducted simultaneously, as well as relatively inactive periods.
-Research Intensity in Specific Years: The information on years with the most studies helps identify peak research periods, potentially indicating external factors or trends in the field that spurred increased research activity.
-Study Duration: The calculations of average, minimum, and maximum study durations provide additional insights into typical study lengths, which could be useful for forecasting future projects.
-This visualization provides a comprehensive understanding of study patterns over time, allowing us to easily identify both the chronological sequence and intensity of activities across different years.
+2. **Data Visualization**:
+   - **Gantt Chart**: Visualized study timelines to show the duration and sequence of research activities.
+   - **Key Insights Visualization**: A bar chart showcasing the largest group, longest study, and most common diagnosis.
 
-List of Python Functions Used in the Analysis
+3. **Key Insights**:
+   - **Largest Group**: Study ID 68 with 485 participants.
+   - **Longest Duration**: Study ID 12 lasting 3,812 days.
+   - **Most Common Diagnosis**: Depressive disorder, found in 10 studies.
+
+## Visualizations
+### Gantt Chart for Study Timelines
+![Gantt Chart](path/to/Gantt_Chart.png)
+
+### Heatmap of Data Completeness
+![Heatmap](path/to/Heatmap.png)
+
+### Key Insights Bar Chart
+![Key Insights](path/to/Key_Insights_Bar_Chart.png)
+
+## Next Steps
+With data cleaned and initial insights uncovered, the next stage will focus on more advanced analysis, including clustering study groups and exploring correlations between study characteristics and outcomes.
+
+## How to Run
+1. Clone this repository.
+2. Open the `Stage 1_Study_Groups_Categories_Analysis.ipynb` file in Jupyter Notebook.
+3. Ensure all required libraries are installed (`pandas`, `matplotlib`, `seaborn`).
+4. Run the notebook to replicate the analysis and generate visualizations.
+
+## Requirements
+- Python 3.x
+- Jupyter Notebook
+- Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`
+
+## Author
+This project is part of an ongoing exploration in data analytics and storytelling. Stay tuned for further updates!
+
+## List of Python Functions Used in the Analysis
 Here is a list of the main Python functions applied for analysis and Gantt chart creation:
 
 pd.read_csv() – loads data from a CSV file into a DataFrame.
