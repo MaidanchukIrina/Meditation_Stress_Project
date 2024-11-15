@@ -36,7 +36,7 @@ This stage of the project focuses on preparing and analyzing data related to stu
 ![Gantt Chart](path/to/Gantt_Chart.png)
 
 ### Heatmap of Data Completeness
-![Heatmap](images/Heatmap_missing_data.png)
+![Heatmap](Images/Heatmap_missing_data.png)
 
 ## Next Steps
 With data cleaned and initial insights uncovered, the next stage will focus on more advanced analysis.
