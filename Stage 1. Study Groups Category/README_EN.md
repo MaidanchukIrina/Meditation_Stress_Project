@@ -42,7 +42,7 @@ This stage of the project focuses on preparing and analyzing data related to stu
 ![Key Insights](path/to/Key_Insights_Bar_Chart.png)
 
 ## Next Steps
-With data cleaned and initial insights uncovered, the next stage will focus on more advanced analysis, including clustering study groups and exploring correlations between study characteristics and outcomes.
+With data cleaned and initial insights uncovered, the next stage will focus on more advanced analysis.
 
 ## How to Run
 1. Clone this repository.
