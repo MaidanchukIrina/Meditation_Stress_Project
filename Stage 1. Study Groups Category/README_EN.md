@@ -59,36 +59,37 @@ With data cleaned and initial insights uncovered, the next stage will focus on m
 This project is part of an ongoing exploration in data analytics and storytelling. Stay tuned for further updates!
 
 ## List of Python Functions Used in the Analysis
+
 Here is a list of the main Python functions applied for analysis and Gantt chart creation:
 
-pd.read_csv() – loads data from a CSV file into a DataFrame.
+- pd.read_csv() – loads data from a CSV file into a DataFrame.
 
-pd.to_datetime() – converts data to date format, enabling accurate date-based calculations.
+- pd.to_datetime() – converts data to date format, enabling accurate date-based calculations.
 
-DataFrame.sort_values() – sorts data by a specified column (in this case, S-START), which arranges studies in chronological order on the Gantt chart.
+- DataFrame.sort_values() – sorts data by a specified column (in this case, S-START), which arranges studies in chronological order on the Gantt chart.
 
-DataFrame['column'].dt.days – calculates study duration in days by subtracting S-START from S-END and outputs the result as a number of days.
+- DataFrame['column'].dt.days – calculates study duration in days by subtracting S-START from S-END and outputs the result as a number of days.
 
-DataFrame['column'].dt.year – extracts the year from the date, allowing for data grouping by year for further frequency analysis.
+- DataFrame['column'].dt.year – extracts the year from the date, allowing for data grouping by year for further frequency analysis.
 
-value_counts() – counts occurrences of studies in each year to determine periods of peak activity.
+- value_counts() – counts occurrences of studies in each year to determine periods of peak activity.
 
-max() and min() – calculates the maximum and minimum study durations.
+- max() and min() – calculates the maximum and minimum study durations.
 
-mean() – calculates the average study duration, giving a general idea of the typical study period.
+- mean() – calculates the average study duration, giving a general idea of the typical study period.
 
-matplotlib.pyplot.subplots() – creates a figure and axes for plotting the Gantt chart.
+- matplotlib.pyplot.subplots() – creates a figure and axes for plotting the Gantt chart.
 
-ax.barh() – creates horizontal bars on the Gantt chart, where each bar represents an individual study.
+- ax.barh() – creates horizontal bars on the Gantt chart, where each bar represents an individual study.
 
-ax.set_yticks() and ax.set_yticklabels() – sets Y-axis labels to display study group numbers (study_ID) instead of indexes.
+- ax.set_yticks() and ax.set_yticklabels() – sets Y-axis labels to display study group numbers (study_ID) instead of indexes.
 
-mdates.YearLocator() and mdates.DateFormatter() from matplotlib.dates – formats the X-axis to show only years, providing a more readable time series.
+- mdates.YearLocator() and mdates.DateFormatter() from matplotlib.dates – formats the X-axis to show only years, providing a more readable time series.
 
-plt.text() – adds text information (legend) on the chart, including minimum, maximum, and average study durations as well as the years with the most studies.
+- plt.text() – adds text information (legend) on the chart, including minimum, maximum, and average study durations as well as the years with the most studies.
 
-plt.xticks(rotation=45) – rotates the X-axis labels for better readability.
+- plt.xticks(rotation=45) – rotates the X-axis labels for better readability.
 
-plt.tight_layout() – optimizes the layout to ensure elements are properly spaced on the chart.
+- plt.tight_layout() – optimizes the layout to ensure elements are properly spaced on the chart.
 
 These functions facilitated a complete analysis workflow and the creation of a visualization that provides a clear view of the timing and duration of studies over time.
