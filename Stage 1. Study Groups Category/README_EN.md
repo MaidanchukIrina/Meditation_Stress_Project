@@ -38,9 +38,6 @@ This stage of the project focuses on preparing and analyzing data related to stu
 ### Heatmap of Data Completeness
 ![Heatmap](path/to/Heatmap.png)
 
-### Key Insights Bar Chart
-![Key Insights](path/to/Key_Insights_Bar_Chart.png)
-
 ## Next Steps
 With data cleaned and initial insights uncovered, the next stage will focus on more advanced analysis.
 
