@@ -33,7 +33,7 @@ This stage of the project focuses on preparing and analyzing data related to stu
 
 ## Visualizations
 ### Gantt Chart for Study Timelines
-![Gantt Chart](Images/Gannt _Study_group_duration.png)
+![Gantt Chart](https://github.com/MaidanchukIrina/Meditation_Stress_Project/blob/main/Stage%201.%20Study%20Groups%20Category/Images/Gannt%20_Study_group_duration.png?raw=true)
 
 ### Heatmap of Data Completeness
 ![Heatmap](Images/Heatmap_missing_data.png)
