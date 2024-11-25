@@ -1,0 +1,77 @@
+﻿report_id,study_id,s_country,s_setting,s_start,s_end,s_duration,s_n,s_diag,s_diag_spec,diag_category,s_female,s_age_mt,s_age_mc
+1,1,Iran,1,,,,30,2,depressive disorder,Depressive disorder,60,29.4,28.6
+2,2,USA,3,09-Aug,13-Aug,4,194,1,"Obesity: BMI > 30-45, waist circumference > 102 cm (men) or 88 cm (women)",Adiposity,80,47,47
+5,4,USA,1,,,,124,2,"and have a principal (or dual) DSM-IV diagnosis of panic disorder with or without agoraphobia (PD/A), anxiety disorder (GAD), phobia (SP), posttraumatic stress disorder (PTSD) on the MINI International Neuropsychiatric (e.g. related to trauma)",PTSD/stress,,,
+6,5,Great Britain,,,,,86,1,"Adults with persistent tinnitus for many years, such as hearing aid treatment",Intrusive tinnitus,,,
+7,6,China,1,05/01/2016,01.03.2017,1,234,1,women undergoing infertility treatment,Infertility,100,30.23,30.27
+8,7,Great Britain,1,01.10.2008,31.12.2011,3,194,2,"a history of at least three previous episodes of depression, being in remission for the previous 8 weeks, a previous history of suicidal thoughts or behavior",Depressive disorder with suicidal thoughts,75,44.5,43.1
+9,8,USA,2,15.10.2015,30.06.2019,4,225,2,The participants were adult women with a clinical diagnosis of SMN who were hospitalized in the inpatient department of the SMN treatment program.,Substance use disorder,100,,
+10,9,USA,3,01.02.2012,31.12.2012,1,49,2,"and active sleep disturbance, older than 55 years",Sleep disturbance,,55,55
+11,10,USA,,,,,,,,Other,,,
+12,11,Germany,,07/01/2014,31.03.2019,5,80,2,(b) history of relapses,other,,,
+13,12,Great Britain,1,01.08.2014,16-Jun,2,40,2,"generalized anxiety disorder, SAD, were assessed for suitability using the GAD-7 and PHQ-9",Anxiety disorder,,,
+14,13,Italy,1,05/01/2014,31.05.2017,3,88,1,Multiple sclerosis (MS) patients with depressive symptoms,Multiple sclerosis,73,44.1,45.1
+15,14,Canada,1,01.10.2007,31.12.2010,3,271,1,women diagnosed with stage I,Cancer,,,
+16,15,USA,4,01.01.2013,08.10.2018,6,110,2,HIV-positive,HIV-positive,,,
+18,16,China,1,21.09.2018,21.03.2019,1,187,2,depression or anxiety disorder,Depressive disorder,71,,
+19,17,USA,1,01.06.2012,31.11.2015,3,342,1,nonspecific lower back pain that has lasted for at least 3 months,Chronic pain,65,,
+20,18,Taiwan,1,,,,66,1,participants were cancer patients who had completed conventional cancer treatment followed by rehabilitation,Cancer,,,
+22,19,USA,1,10.05.2011,,,22,1,HIV is stable on antiretroviral treatment,HIV-positive,,,
+23,20,Italy,1,01.10.2012,,,50,2,major depression,Depressive disorder,,,
+24,21,Canada,4,,,,48,1,amnestic mild cognitive impairment (aMCI),Cognitive dysfunction,33,72.7,70.7
+25,22,Germany,1,01.09.2014,,,125,2,"primary diagnosis of OCD, according to DSM-5 with clinically significant symptoms of OCD. Only those patients who definitely underwent cognitive-behavioral therapy were invited to participate.""",Cognitive dysfunction,,,
+27,23,USA,1,01.05.2009,31.04.2013,4,114,2,combat veterans diagnosed with chronic post-traumatic stress disorder,PTSD/stress,5,,
+29,24,Brazil,1,01.10.2016,31.12.2018,2,249,2,persons with a diagnosis of GAD,Anxiety disorder,,,
+30,25,USA,2,09/01/2015,31.06.2016,1,79,2,Substance Use Disorder (SUD),Substance use disorder,35,,
+32,26,Australia,1,01.01.2016,31.12.2017,1,69,1,chronic low back pain (CLBP),Chronic pain,52,,
+33,27,Brazil,1,06.02.2016,08/06/2016,1,92,2,primary diagnosis of generalized anxiety disorder (GAD),Anxiety disorder,74,,
+35,29,Spain,1,01.01.2016,31.02.2018,2,225,1,Fibromyalgia (FM),Fibromyalgia,98,52.96,54.21
+36,30,Germany,1,01.09.2013,31.03.2015,2,74,2,"current diagnosis of major depression with lifetime history of depression, at least 3 previous episodes of depression",Depressive disorder,42,42.3,40.7
+37,31,Germany,1,01.10.2010,31.05.2013,3,106,2,current major depressive episode and depressive symptoms for more than 2 years without remission,Depressive disorder,62,48.4,50.2
+38,32,USA,1,01.03.2011,09/01/2015,4,107,2,untreated patients diagnosed with social anxiety disorder (ASD),Anxiety disorder,55,,
+39,33,USA,1,26.09.2017,01.10.2020,3,95,1,they reported frequent recurrent pain (ie,Chronic pain,,,
+40,34,USA,1,2012,,,115,1,"they reported recurrent pain (eg, arthritis or fibromyalgia, were prescribed and took opioids for pain daily or",Chronic pain,,,
+41,35,USA,1,,,,180,2,Men with concomitant use of psychoactive substances and mental disorders,Substance use disorder,0,31.7,36.5
+42,36,Canada,1,01.09.2008,31.07.2012,4,111,1,a diagnosis of non-metastatic cancer who underwent chemotherapy and radiation therapy at least one month before inclusion in the study with a diagnosis of insomnia,Cancer,72,,
+43,37,USA,1,,,,63,2,addiction to stimulants,Substance use disorder,,,
+44,38,USA,1,,,,180,1,women diagnosed with stage I or II breast cancer,Cancer,100,,
+45,39,USA,1,01.09.2009,31.06.2014,5,173,2,unipolar major depressive disorder according to DSM-IV and taking antidepressants,Depressive disorder,,,
+46,40,USA,1,01.03.2008,31.02.3013,5,93,2,diagnosis of current primary generalized anxiety disorder (GAD) and identification of GAD as the underlying problem,Anxiety disorder,48,41,37
+47,41,USA,1,01.12.2014,31.07.2017,3,57,1,society has lost at least 5% of its body weight during the previous year,Rapid weight loss,,,
+48,42,Germany,1,2012,31.11.2014,2,81,2,We included adult participants diagnosed with ADHD,ADHD,,,
+49,43,USA,1,01.01.2008,31.01.2011,3,55,1,inactive Ulcerative colitis (UC) is a type of chronic inflammatory bowel disease (IBD) that poses a serious health problem.,Chronic pain,,,
+50,44,USA,1,01.09.2012,31.11.2013,1,71,1,Breast (n = 60) and colorectal (n = 11) cancer survivors (BCS),Cancer,,,
+51,45,USA,4,,,,59,2,patients from emergency departments of state hospitals,After the ambulance,,,
+52,46,Canada,1,,,,97,2,GAD,Anxiety disorder,,,
+53,47,USA and Great Britain,1,,,,150,2,overeating and weight concerns,Overeating,,,
+54,48,USA,1,01.03.2016,31.08.2017,1,37,2,veterans with a primary clinical diagnosis of PTSD,PTSD/stress,25,,
+55,49,USA,4,07/01/2009,31.04.2010,1,57,1,cancer survivors who have trouble sleeping,Cancer,75,50.8,51.6
+56,50,USA,4,01.10.2015,14.05.2017,2,61,1,patients with multiple sclerosis (MS).,Multiple sclerosis,77,,
+57,51,USA,4,01.08.2013,,,50,2,depressed college students,Depressive disorder,64,19.3,19.3
+58,52,Australia,1,01.06.2013,31.09.2014,1,77,2,All individuals seeking treatment at an urban specialist gambling treatment clinic in Sydney,Gambling games,,,
+59,53,Great Britain,1,01.01.2013,31.12.2015,2,75,1,"2) reports of tinnitus lasting more than 6 months,",Intrusive tinnitus,45,,
+60,54,USA,1,,,,68,1,"persons with type 2 diabetes (type 2 diabetes)""",Diabetes and depressive disorder,,,
+61,55,Iran,1,,,,76,1,irritable bowel syndrome (IBS),Chronic pain,47,28.6,28.76
+62,56,USA,1,01.10.2011,31.06.2014,3,103,2,adults aged 65 years and older with clinically significant anxiety-related distress and self-reported cognitive dysfunction,PTSD/stress,73,65,65
+63,57,USA,1,01.06.2013,31.08.2016,3,203,2,were: a current medical diagnosis of post-traumatic stress disorder using a CAPS chart review score of 45 or greater resulting from an event that occurred during active military service,PTSD/stress,,,
+64,58,Iran,1,,,,90,2,"To participate in a study of a depressive disorder meeting the criteria of DSM-IV""",Depressive disorder,,,
+65,59,USA,1,,,,42,2,self-reported autism spectrum disorder (ASD).,Autistic spectrum disorder,21,32.27,31.15
+66,60,Spain,1,07/01/2014,,,50,1,"unit with high normal blood pressure or hypertension of the 1st degree"".",Hypertension,,,
+67,61,USA,1,01.11.2011,31.06.2014,3,86,1,women with obesity and BMI >=25 kg/m,Adiposity,100,,
+68,62,USA,1,1994,1999,5,171,1,"The study included African-American men and women aged 20-75 years who received systolic blood pressure, antihypertensive drugs.""",Hypertension,,,
+69,63,USA,1,05/01/2015,31.05.2017,2,67,1,multiple sclerosis (MS),Multiple sclerosis,72,,
+70,64,USA,1,30.07.2010,15.06.2013,3,92,2,"c) at least 1 previous episode of MDD, d) at least 1 previous episode of MDD within 2 years of the interview assessment, e) current remission from MDD at least 1 month prior to the interview assessment, f) no change in type or dose of ADM for at least 3 weeks before online screening, g) residual depressive symptoms indicated by the Beck Depression Inventory-II (BDI-II)",Depressive disorder,77,36.7,33
+72,65,Netherlands,1,01.01.2014,,,59,2,autism spectrum disorder (ASD),Autistic spectrum disorder,36,39.4,35.1
+73,66,USA,1,01.09.2006,31.10.2007,1,40,1,postmenopausal women with a BMI over 30,Adiposity,100,58.56,58.56
+74,67,Netherlands,1,05/01/2011,31.05.2014,3,94,1,patients with type 1 or type 2 diabetes diagnosed at least 3 months prior to inclusion and with depressive symptoms as indicated by a BDI-II score >= 14,Diabetes and depressive disorder,49,,
+75,68,USA,1,,,,485,2,people who smoked at least 5 cigarettes per day in the past year and were motivated to quit in the next month,Addiction to smoking,55,,
+76,69,China,1,01.08.2011,31.07.2013,2,61,1,patients suffering from drug-resistant epilepsy,Epilepsy,52,34.77,35.47
+77,70,Germany,1,01.08.2014,,,78,2,"patients with remitted depression, at least 2 episodes of major depression during their lifetime",Depressive disorder,,,
+78,71,Spain,1,02/03/2017,30.12.2018,1,159,2,Being treated in the chronic pain unit at Hospital Universitario La Paz due to the presence of chronic pain lasting more than 3 months,Chronic pain,,,
+79,72,New Zealand,1,18.03.2013,31.01.2014,1,68,1,access Patients with a non-metastatic diagnosis scheduled to start or currently receiving adjuvant chemotherapy were eligible to be treated as patients who had/had metastatic disease. First line treatment,Cancer,,,
+80,73,USA,1,06/07/2007,11.01.2010,3,68,1,consider themselves black according to 3 criteria: abdominal obesity (waist circumference >102 cm in men and >88 cm in women),Adiposity,,,
+81,74,Great Britain,1,01.11.2012,31.09.2014,2,148,1,Fibromyalgia syndrome (FMS),Fibromyalgia,,,
+82,75,China,1,01.01.2017,,,202,1,"Spontaneous intracerebral hemorrhage (sICH), (a) 3-6 months after sICH sICH by neurological signs and computed tomography sICH by neurological signs and computed tomography",Spontaneous intracerebral hemorrhage,,,
+83,76,USA,1,26.08.2016,17.07.2019,3,97,1,Inclusion criteria were a diagnosis of migraine (International Classification of Headache Disorders-2 [ICHD-2]),Chronic pain,,,
+84,77,USA,1,01.10.2008,31.01.2014,6,192,1,"age early stage breast cancer (ie breast or axillary lymph nodes). Women were identified after breast surgery when surgical pathology reports were available.""",Cancer,,,
+85,78,Iran,4,01.06.2014,,,74,2,1) meet DSM-IVTR (American Psychiatric Association 2000) criteria for dependence on psychoactive substances in the last year,Substance use disorder,,,

@@ -1,0 +1,165 @@
+report_id,study_id,outcome_id,o_cat,o_sub,o_cons,o_full,o_short,o_max,o_min,o_mean
+14,13,2,1,2,2,Beck Anxiety Inventory,BAI ,63,0,higher levels of anxiety
+23,20,2,1,2,2,Beck Anxiety Inventory,BAI ,63,0,higher levels of anxiety
+43,37,2,1,2,2,Beck Anxiety Inventory,BAI ,63,0,higher levels of anxiety
+46,40,1,1,2,2,Beck Anxiety Inventory,BAI ,63,0,higher levels of anxiety
+57,51,1,1,2,2,Beck Anxiety Inventory,BAI ,63,0,higher levels of anxiety
+60,54,1,1,2,2,Beck Anxiety Inventory,BAI ,63,0,higher levels of anxiety
+76,69,2,1,2,2,Beck Anxiety Inventory,BAI ,63,0,higher levels of anxiety
+85,78,2,1,2,2,Beck Anxiety Inventory,BAI ,63,0,higher levels of anxiety
+85,78,1,1,2,3,Beck Depression Inventory II,BDI-II,63,0,higher levels of depressive symptoms
+1,1,1,1,2,3,Beck's Depression Inventory II,BDI-II,63,0,higher levels of depressive symptoms
+4,3,1,1,2,3,Beck's Depression Inventory II,BDI-II,63,0,higher levels of depressive symptoms
+5,4,1,1,2,3,Beck's Depression Inventory II,BDI-II,63,0,higher levels of depressive symptoms
+8,7,1,1,2,3,Beck's Depression Inventory II,BDI-II,63,0,higher levels of depressive symptoms
+10,9,1,1,2,3,Beck's Depression Inventory II,BDI-II,63,0,higher levels of depressive symptoms
+12,11,3,1,2,3,Beck's Depression Inventory II,BDI-II,63,0,higher levels of depressive symptoms
+14,13,1,1,2,3,Beck's Depression Inventory II,BDI-II,63,0,higher levels of depressive symptoms
+23,20,1,1,2,3,Beck's Depression Inventory II,BDI-II,63,0,higher levels of depressive symptoms
+25,22,1,1,2,3,Beck's Depression Inventory II,BDI-II,63,0,higher levels of depressive symptoms
+27,23,1,1,2,3,Beck's Depression Inventory II,BDI-II,63,0,higher levels of depressive symptoms
+36,30,1,1,2,3,Beck's Depression Inventory II,BDI-II,63,0,higher levels of depressive symptoms
+37,31,1,1,2,3,Beck's Depression Inventory II,BDI-II,63,0,higher levels of depressive symptoms
+43,37,1,1,2,3,Beck's Depression Inventory II,BDI-II,63,0,higher levels of depressive symptoms
+48,42,4,1,2,3,Beck's Depression Inventory II,BDI-II,63,0,higher levels of depressive symptoms
+49,43,2,1,2,3,Beck's Depression Inventory II,BDI-II,63,0,higher levels of depressive symptoms
+51,45,1,1,2,3,Beck's Depression Inventory II,BDI-II,63,0,higher levels of depressive symptoms
+52,46,1,1,2,3,Beck's Depression Inventory II,BDI-II,63,0,higher levels of depressive symptoms
+53,47,1,1,2,3,Beck's Depression Inventory II,BDI-II,63,0,higher levels of depressive symptoms
+56,50,1,1,2,3,Beck's Depression Inventory II,BDI-II,63,0,higher levels of depressive symptoms
+57,51,1,1,2,3,Beck's Depression Inventory II,BDI-II,63,0,higher levels of depressive symptoms
+60,54,1,1,2,3,Beck's Depression Inventory II,BDI-II,63,0,higher levels of depressive symptoms
+65,59,1,1,2,3,Beck's Depression Inventory II,BDI-II,63,0,higher levels of depressive symptoms
+70,64,1,1,2,3,Beck's Depression Inventory II,BDI-II,63,0,higher levels of depressive symptoms
+74,67,1,1,2,3,Beck's Depression Inventory II,BDI-II,63,0,higher levels of depressive symptoms
+76,69,1,1,2,3,Beck's Depression Inventory II,BDI-II,63,0,higher levels of depressive symptoms
+80,73,3,1,2,3,Beck's Depression Inventory II,BDI-II,63,0,highr levels of depressive symptoms
+41,35,2,1,2,2,Brief Symptom Inventory-18 Anxiety,BSI-18 Anxiety,35,0,higher levels of stress together with anxiety
+48,42,2,1,2,2,Brief Symptom Inventory-18 Anxiety,BSI-18 Anxiety,35,0,higher levels of stress together with anxiety
+64,58,2,1,2,2,Brief Symptom Inventory-18 Anxiety,BSI-18 Anxiety,35,0,higher levels of stress together with anxiety
+67,61,4,1,2,2,Brief Symptom Inventory-18 Anxiety,BSI-18 Anxiety,35,0,higher levels of stress together with anxiety
+41,35,1,1,2,3,Brief Symtom Inventory-18 Depression,BSI-18 Depression,35,0,higher levels of stress together with depression
+48,42,1,1,2,3,Brief Symtom Inventory-18 Depression,BSI-18 Depression,35,0,higher levels of stress together with depression
+64,58,1,1,2,3,Brief Symtom Inventory-18 Depression,BSI-18 Depression,35,0,higher levels of stress together with depression
+67,61,3,1,2,3,Brief Symtom Inventory-18 Depression,BSI-18 Depression,35,0,higher levels of stress together with depression
+40,34,1,1,2,3,Calgary Symptoms of Stress Inventory-depression,C-SOSI- depression,32,0,higher affective symptoms of stress (depression)
+12,11,4,1,2,3,Center for epidemiologic studies Depression Scale,CES-D,60,0,higher values more severe
+22,19,3,1,2,3,Center for epidemiologic studies Depression Scale,CES-D,60,0,higher values more severe
+47,41,2,1,2,3,Center for epidemiologic studies Depression Scale,CES-D,60,0,higher values more severe
+55,49,2,1,2,3,Center for epidemiologic studies Depression Scale,CES-D,60,0,higher values more severe
+82,75,1,1,2,3,Center for epidemiologic studies Depression Scale,CES-D,60,0,more depressive symptoms
+84,77,2,1,2,3,Center for epidemiologic studies Depression Scale,CES-D,60,0,more depressive symptoms
+18,16,1,1,2,1,Chinese Version of Depression,Depression,,,
+9,8,2,1,2,4,Depression,Depression,,,
+33,27,1,1,2,2,Depression,Depression,,,
+81,74,1,1,2,1,Depression,Depression,,,
+33,27,3,1,2,3,Depression and Anxiety Stress Scale-21 Depression,DASS-21 depression,21,0,bigger burden due to depression
+33,27,2,1,2,4,Depression Anxeity and Stress Scale - 21 Stress,DASS-21 stress,21,0,bigger burden due to stress
+66,60,3,1,2,4,Depression Anxeity and Stress Scale - 21 Stress,DASS-21 stress,21,0,more stress
+66,60,2,1,2,2,Depression Anxiety and Stress Scale - 21 Anxiety,DASS-21 anxiety,21,0,more stress due to anxiety
+58,52,1,1,1,1,Depression Anxiety and Stress Scale-21- Anxiety &Depression,DASS-21- Anxiety + Depression,42,0,more stress due to anxiety and depression
+66,60,1,1,2,3,Depression Anxiety and Stress Scale-21- Depression,DASS-21 depression,21,0,more stress due to depression
+79,72,1,2,4,6,Functional Assessment of Cancer Therapy-emotional well-being,FACT-G emotional well-being,NA,NA,greater QoL
+20,18,1,2,4,6,Functional Assessment of Cancer Therapy-General ,FACT-G emotional well-being,108,0,higher scores mean less QoL
+7,6,2,1,2,2,Generalized Anxiety Disorder-7,GAD-7,21,0,more severe symptoms of GAD
+29,24,1,1,2,2,Generalized Anxiety Disorder-7,GAD-7,21,0,more severe symptoms of GAD
+50,44,2,1,2,2,Generalized Anxiety Disorder-7,GAD-7,21,0,more severe symptoms of GAD
+74,67,3,1,2,2,Generalized Anxiety Disorder-7,GAD-7,21,0,more symptoms of anxiety
+83,76,2,1,2,2,Generalized Anxiety Disorder-7,GAD-7,21,0,more symptoms of anxiety
+19,17,2,1,2,2,Genralized Anxiety Disorder Scale - 2,GAD-2,6,0,greater severity
+35,29,1,1,2,1,Hospital anxiety and depression scale - total,HADS,42,0,higher symptom severity
+6,5,1,1,2,2,Hospital Anxiety and Depression Scale - Anxiety ,HADS-A,21,0,more severe symptoms
+72,65,1,1,2,2,Hospital Anxiety and Depression Scale - Anxiety ,HADS-A,21,0,greater levels of anxiety 
+78,71,3,1,2,2,Hospital Anxiety and Depression Scale - Anxiety ,HADS-A,21,0,greater levels of anxiety
+6,5,1,1,2,3,Hospital Anxiety and Depression Scale - Depression,HADS-D,21,0,more severe symptoms
+72,65,2,1,2,3,Hospital Anxiety and Depression Scale - Depression,HADS-D,21,0,greater levels of depression
+78,71,2,1,2,3,Hospital Anxiety and Depression Scale - Depression,HADS-D,21,0,greater levels of depression
+13,12,1,1,2,1,Hospital anxiety and depression scale - total,HADS,42,0,greater levels of anxiety and depression
+59,53,1,1,2,2,Hospital Anxiety and Depression Scale-Anxiety,HADS-A,21,0,greater levels of anxiety
+59,53,2,1,2,3,Hospital Anxiety and Depression Scale-Depression,HADS-D,21,0,greater levels of depression
+22,19,2,2,4,6,Medical Outcomes Short Form,,,,
+48,42,3,2,4,6,Medical Outcomes Short Form,,,,
+67,61,2,2,4,6,Medical Outcomes Short Form,,,,
+69,63,2,2,3,5,Medical Outcomes Short Form,,,,
+78,71,1,2,3,5,Medical Outcomes Short Form,,,,
+16,15,1,1,2,1,modified Differential Emotions Scale - negative,DES-n,32,0,more negative emotions
+16,15,2,2,3,5,modified Differential Emotions Scale - positive,DES-p,44,0,more positive emotions
+17,15,3,2,3,5,modified Differential Emotions Scale - positive,DES-p,56,0,more positive emotions
+50,44,1,1,2,3,Patient Health Questionnaie-8,PHQ-8,24,0,greater severity of depressive symptoms
+19,17,1,1,2,3,Patient Health Questionnaire-8,PHQ-8,24,0,greater severity
+7,6,1,1,2,3,Patient Health Questionnaire-9 ,PHQ-9,27,0,more severe depressive symptoms
+11,10,1,1,2,3,Patient Health Questionnaire-9 ,PHQ-9,27,0,greater severity
+63,57,1,1,2,3,Patient Health Questionnaire-9 ,PHQ-9,27,0,greater severity
+83,76,1,1,2,3,Patient Health Questionnaire-9 ,PHQ-9,27,0,greater severity
+69,63,3,1,2,2,Patient Reported Outcomes measurement information system - Anxiety,PROMIS-Anxiety,NA,NA,more anxiety
+62,56,2,1,2,2,patient reported outcomes measurement information system - anxiety (7 items),PROMIS-anxiety (7 items),35,5,more anxiety
+69,63,4,1,2,3,Patient Reported Outcomes measurement information system-Depression,PROMIS-Depression,NA,NA,more depressive symptoms
+31,26,1,1,2,3,Patient Reported Outcomes Measurement Information System-Depression (4 items),PROMIS-Depression (4 items),20,4,worse functioning
+62,56,1,1,2,3,Patient Reported Outcomes Measurement Information System-Depression (8 items),PROMIS-Depression (8 items),40,5,more depressive symptoms
+3,2,1,1,1,4,Perceived Stress Scale - 10,PSS - 10,40,0,higher perceived psychological stress
+9,8,1,1,1,4,Perceived Stress Scale - 10,PSS - 10,40,0,higher perceived psychological stress
+10,9,2,1,1,4,Perceived Stress Scale - 10,PSS - 10,40,0,higher perceived psychological stress
+14,13,3,1,1,4,Perceived Stress Scale - 10,PSS - 10,40,0,higher perceived psychological stress
+18,16,2,1,1,4,Perceived Stress Scale - 10,PSS - 10,40,0,higher perceived psychological stress
+22,19,1,1,1,4,Perceived Stress Scale - 10,PSS - 10,40,0,higher perceived psychological stress
+24,21,1,1,1,4,Perceived Stress Scale - 10,PSS - 10,40,0,higher levles of perceived stress
+28,23,2,1,1,4,Perceived Stress Scale - 10,PSS - 10,40,0,higher levels of perceived stress
+35,29,2,1,1,4,Perceived Stress Scale - 10,PSS - 10,40,0,higher perceived psychological stress
+55,49,1,1,1,4,Perceived Stress Scale - 10,PSS - 10,40,0,higher levels of perceived stress
+57,51,1,1,1,4,Perceived Stress Scale - 10,PSS - 10,40,0,higher perceived psychological stress
+66,60,4,1,1,4,Perceived Stress Scale - 10,PSS - 10,40,0,higher levels of perceived stress
+67,61,1,1,1,4,Perceived Stress Scale - 10,PSS - 10,40,0,higher perceived psychological stress
+69,63,1,1,1,4,Perceived Stress Scale - 10,PSS - 10,40,0,higher levels of perceived stress
+84,77,1,1,1,4,Perceived Stress Scale - 10,PSS - 10,40,0,higher levels of perceived stress
+30,25,1,1,1,4,perceived stress scale -14,PSS-14,56,0,higher perceived psychological stress
+45,39,1,1,1,4,perceived stress scale -14,PSS-14,56,0,higher perceived psychological stress
+47,41,1,1,1,4,perceived stress scale -14,PSS-14,56,0,higher perceived psychological stress
+61,55,1,1,1,4,perceived stress scale -14,PSS-14,56,0,higher perceived psychological stress
+68,62,1,1,1,4,perceived stress scale -14,PSS-14,56,0,higher levels of perceived stress
+80,73,1,1,1,4,perceived stress scale -14,PSS-14,56,0,higher levels of perceived stress
+75,68,3,1,1,4,Perceived Stress scale-4 items,PSS-4,16,0,higher perceived psychological stress
+49,43,1,1,1,4,Perveived Stress Questionnaire,PSQ,1,0,experience of stress
+9,8,3,1,2,1,Positive and Negative Affect Scale - Negative,PANAS-n,50,10,higher levels of negative affect
+12,11,1,1,2,1,Positive and Negative Affect Scale - Negative,PANAS-n,50,10,higher levels of negative affect
+28,23,3,1,2,1,Positive and Negative Affect Scale - Negative,PANAS-n,50,10,higher levels of negative affect
+38,32,1,1,2,1,Positive and Negative Affect Scale - Negative,PANAS-n,50,10,higher levels of negative affect
+41,35,4,1,2,1,Positive and Negative Affect Scale - Negative,PANAS-n,50,10,higher levels of negative affect
+55,49,4,1,2,1,Positive and Negative Affect Scale - Negative,PANAS-n,50,10,higher negative affect
+67,61,6,1,2,1,Positive and Negative Affect Scale - Negative,PANAS-n,50,10,more positive affect
+73,66,2,1,2,1,Positive and Negative Affect Scale - Negative,PANAS-n,50,10,higher negative affect
+75,68,2,1,2,1,Positive and Negative Affect Scale - Negative,PANAS-n,50,10,higher negative affect
+77,70,1,1,2,1,Positive and Negative Affect Scale - Negative,PANAS-n,50,10,higher negative affect
+9,8,4,2,3,5,Positive and Negative Affect Scale - Positive ,PANAS-p,50,10,higher levels of positive affect
+12,11,2,2,3,5,Positive and Negative Affect Scale - Positive ,PANAS-p,50,10,higher levels of positive affect
+28,23,4,2,3,5,Positive and Negative Affect Scale - Positive ,PANAS-p,50,10,higher levels of positive affect
+38,32,2,2,3,5,Positive and Negative Affect Scale - Positive ,PANAS-p,50,10,higher levels of positive affect
+39,33,1,2,3,5,Positive and Negative Affect Scale - Positive ,PANAS-p,50,10,higher levels of positive affect
+41,35,3,2,3,5,Positive and Negative Affect Scale - Positive ,PANAS-p,50,10,higher levels of positive affect
+55,49,5,2,3,5,Positive and Negative Affect Scale - Positive ,PANAS-p,50,10,more positive affect
+67,61,5,2,3,5,Positive and Negative Affect Scale - Positive ,PANAS-p,50,10,higher negative affect
+73,66,3,2,3,5,Positive and Negative Affect Scale - Positive ,PANAS-p,50,10,higher positive affect
+75,68,1,2,3,5,Positive and Negative Affect Scale - Positive ,PANAS-p,50,10,higher positive affect
+77,70,2,2,3,5,Positive and Negative Affect Scale - Positive ,PANAS-p,50,10,higher positive affect
+66,60,5,1,2,2,profile of mood states - tension,POMS tension,36,0,higher levels of anxiety/tension
+21,14,2,1,2,2,Profile of Mood States-anxiety,POMS-Anxiety,32,0,higher levels of tension
+21,14,3,1,2,3,Profile of Mood States-depression,POMS-Depression,60,0,higher level of depressive mood
+66,60,6,1,2,3,Profile of Mood States-depression,POMS-Depression,60,0,higher levels of depressive mood
+42,36,1,1,2,1,profile of mood states-short form,POMS-SF,-24,124,higher negative mood state
+15,14,1,1,2,1,Profile of Mood States-Total Mood Disturbance,POMS-TMD,200,-32,higher negative mood state
+63,57,2,1,2,1,Profile of Mood States-Total Mood Disturbance,POMS-TMD,200,-32,higher negative mood state
+23,20,3,2,3,5,Psychological General Well Being Index,PGWBI,110,0,higher levels of well-being
+73,66,1,2,4,6,psychological well-being scales,PWBS,NA,NA,greater levels of psychological well-being
+52,46,2,2,4,6,Satisfaction with Life Scale,SWLS,35,5,higher life satisfaction
+54,48,3,2,4,6,Satisfaction with Life Scale,SWLS,35,5,higher life satisfaction
+70,64,2,2,4,6,Satisfaction with Life Scale,SWLS,35,5,higher life satisfaction
+45,39,2,1,2,2,State and Trait Anxiety Inventory - State,STAI-State,60,20,higher anxiety
+80,73,2,1,2,2,State and Trait Anxiety Inventory - State,STAI-State,60,20,higher anxiety
+54,48,1,1,2,2,Symptom Checklist-90 R-Anxiety,SCL-90 R - anxiety,40,0,more symptoms of anxiety
+44,38,1,1,2,3,Symptom Checklist-90 R-Depression,SCL-90 R - depression,4,0,more depressive symptoms
+54,48,2,1,2,3,Symptom Checklist-90 R-Depression,SCL-90 R - depression,52,0,more depressive symptoms
+55,49,3,2,4,5,WHO well-being index,WHO WBI,100,0,greater possible well-being
+74,67,2,2,4,5,WHO well-being index,WHO WBI,100,0,greater possible well-being
+11,10,2,2,4,6,World Health Organisation Quality of Life brief form,WHOQOL-BREF,130,0,higher quality of life
+25,22,2,2,4,6,World Health Organisation Quality of Life brief form,WHOQOL-BREF,130,0,higher quality of life
+29,24,2,2,4,6,World Health Organisation Quality of Life brief form,WHOQOL-BREF,130,0,higher quality of life
+33,27,4,2,4,6,World Health Organisation Quality of Life-psychological,WHOQOL-BREF psycho,20,0,higher quality of life
